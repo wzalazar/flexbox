@@ -1,0 +1,24 @@
+* {
+  color: #000;
+  font-family: arial;
+}
+
+main section {
+  padding: 10px;
+}
+
+main section p {
+  padding: 1em;
+}
+
+main aside li {
+  margin: 10px;
+  white-space: nowrap;
+}
+
+header,
+main aside,
+main section,
+footer {
+  padding: 10px;
+}

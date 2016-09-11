@@ -1,0 +1,13 @@
+main,
+main section {
+  overflow: auto;
+}
+
+main section {
+  order: 2;
+  flex: 1;
+}
+
+main aside {
+  orden: 1;
+}
